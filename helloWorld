@@ -1,0 +1,3 @@
+# Comando para imprimir na tela usando o python 2.x
+
+print "Hello world!"
